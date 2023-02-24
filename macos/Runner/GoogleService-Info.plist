@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>221404782908-1qmqi9d412oknm09j18gtk1e5iunlajt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.221404782908-1qmqi9d412oknm09j18gtk1e5iunlajt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmpoS1irEaAZlLMMiTs3Q2pATeFtM2RQ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>221404782908</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.river</string>
+	<key>PROJECT_ID</key>
+	<string>riverpod-ahmadreza</string>
+	<key>STORAGE_BUCKET</key>
+	<string>riverpod-ahmadreza.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:221404782908:ios:3176b013d912a9b3f93e39</string>
+</dict>
+</plist>
